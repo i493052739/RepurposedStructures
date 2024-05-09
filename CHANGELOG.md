@@ -1,5 +1,7 @@
-### **(V.7.3.4 Changes) (1.20.4 Minecraft)**
+### **(V.7.3.5 Changes) (1.20.4 Minecraft) (Config Datapack Updated)**
 
-#### Misc:
-Removed the basalt feature mixin logging. Wills top logspam with current versions of Distant Horizon.
- Has to do with how DH uses a different way of generating chunks that doesn't match what vanilla does.
+#### Ancient Cities:
+Fixed some broken processors for Nether Ancient Cities.
+
+#### Villages:
+Fixed some broken processors for Badlands Villages, Cherry Villages, and Ocean Villages
